@@ -1,0 +1,13 @@
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.exe
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.deps.json
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.runtimeconfig.json
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.runtimeconfig.dev.json
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.dll
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\bin\Debug\netcoreapp3.1\BuilderExamen2P.pdb
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.csprojAssemblyReference.cache
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.AssemblyInfoInputs.cache
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.AssemblyInfo.cs
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.dll
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.pdb
+C:\Users\MIGUEL ANGEL\source\repos\examen-2p-bulder-builder\BuilderExamen2P\BuilderExamen2P\obj\Debug\netcoreapp3.1\BuilderExamen2P.genruntimeconfig.cache
